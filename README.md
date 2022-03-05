@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/pedrohsm8"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrohsm8&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsm8&layout=compact&langs_count=5&theme=nord">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrohsm8&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsm8&layout=compact&langs_count=5&theme=apprentice">
 </div>
 
 ## I'm confident with these languages and technologies
